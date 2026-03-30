@@ -37,7 +37,7 @@ Ekstensi ini dibangun dengan standar teknologi modern untuk memastikan performa 
    git clone [https://github.com/windran/jabodetabek-logistics-auditor.git](https://github.com/windran/jabodetabek-logistics-auditor.git)
 
 
-   Install Dependencies:
+Install Dependencies:
 
 Bash
 npm install
