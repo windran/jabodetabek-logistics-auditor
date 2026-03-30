@@ -1,0 +1,13 @@
+Website: https://www.skywhiterentcar.com/
+
+b32672e919c023010cce05bc32156dcd  assets/popup.css
+f97fc3a7d6ed56c440bc07e35eaf06c8  assets/sky-white-logo.webp
+4a63b7a822ce7a14850c96fd74deca39  assets/sky-white-thumbnail.webp
+f47f543e61fc3985f576c72094077320  icons/icon-128.png
+f63edc227124da07de44609fe6429ef6  icons/icon-16.png
+85f98060392114ab60f904e8da6ff9bd  icons/icon-48.png
+bf8c94ef828e16dc69d3136e95cb7aaa  icons/icon.svg
+b6eef0ed20c8734e68d60bc17f77ec9b  manifest.json
+0d5f8d4f5e316cc069fa22fe5dca692b  popup.html
+150c1315da9cd258dfc2d296ab8af1d2  popup.js
+91a33346beaa507b40f0162607d12ee7  service-worker.js
